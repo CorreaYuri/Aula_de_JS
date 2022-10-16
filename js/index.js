@@ -10,7 +10,7 @@
   b = 5;
   c = a + b;
 
-  // Os tipos de aída pode ser:
+  // Os tipos de saída pode ser:
 
   //console.log(c);
 
