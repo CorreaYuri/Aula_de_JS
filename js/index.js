@@ -1,13 +1,21 @@
+// Concatenação de números e Strings:
 
-//Concatenação de String:
+//Declaração de Variáveis:
 
-//Declarações das variáveis:
- var nome, sobreNome, NomeCompleto;
-//atribuição de valor às variáveis:
-nome ="Yuri";
-sobreNome = "Corêa";
-NomeCompleto = nome +" "+ sobreNome;
-//saída
-document.getElementById("texto").innerHTML = NomeCompleto;
+var nome, sobrenome, nomeCompleto, idade, soma, pessoa;
+
+//Valorando às Variaveis:
+
+nome= "Yuri";
+sobrenome= "Corrêa";
+nomeCompleto= nome + " " + sobrenome;
+idade= 10;
+soma= idade+ 19;
+pessoa= nomeCompleto+" "+ soma;
+
+// saída:
+document.getElementById("texto").innerHTML= pessoa;
+
+
  
  
