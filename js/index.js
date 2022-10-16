@@ -5,12 +5,12 @@
  var a, b, c;
 
  // Atribuindo valor à elas:
- 
+
   a = 3;
   b = 5;
   c = a + b;
 
-  // Saída pode ser:
+  // Os tipos de aída pode ser:
 
   //console.log(c);
 
