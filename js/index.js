@@ -1,23 +1,13 @@
- // Variaveis no JS pode ser: var let ou const.
 
- // Declarando as variaveis:
+//Concatenação de String:
 
- var a, b, c;
-
- // Atribuindo valor à elas:
-
-  a = 3;
-  b = 5;
-  c = a + b;
-
-  // Os tipos de saída pode ser:
-
-  //console.log(c);
-
-  //alert(c);
-  
-  //document.getElementById("idade").innerHTML = c;
-
- 
+//Declarações das variáveis:
+ var nome, sobreNome, NomeCompleto;
+//atribuição de valor às variáveis:
+nome ="Yuri";
+sobreNome = "Corêa";
+NomeCompleto = nome +" "+ sobreNome;
+//saída
+document.getElementById("texto").innerHTML = NomeCompleto;
  
  
